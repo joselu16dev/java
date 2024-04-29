@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CuantosDiasTiene",
+            "request": "launch",
+            "mainClass": "Activitat_2.Exercici_5.CuantosDiasTiene",
+            "projectName": "Java_b00ee97f"
+        },
+        {
+            "type": "java",
+            "name": "UnSegundoMas",
+            "request": "launch",
+            "mainClass": "Activitat_2.Ejercicio_4.UnSegundoMas",
+            "projectName": "Java_b00ee97f"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "QuasiZero",
+            "request": "launch",
+            "mainClass": "Activitat_2.Ejercicio_1.QuasiZero",
+            "projectName": "Java_b00ee97f"
+        },
+        {
+            "type": "java",
+            "name": "MajorQue",
+            "request": "launch",
+            "mainClass": "Activitat_2.Ejercicio_2.MajorQue",
+            "projectName": "Java_b00ee97f"
+        },
+        {
+            "type": "java",
+            "name": "Qualificacio",
+            "request": "launch",
+            "mainClass": "Activitat_2.Ejercicio_3.Qualificacio",
+            "projectName": "Java_b00ee97f"
+        },
+        {
+            "type": "java",
+            "name": "PrimeraApp",
+            "request": "launch",
+            "mainClass": "Ejercicio_2.PrimeraApp",
+            "projectName": "Java_b00ee97f"
+        },
+        {
+            "type": "java",
+            "name": "SegonaApp",
+            "request": "launch",
+            "mainClass": "Ejercicio_3.SegonaApp",
+            "projectName": "Java_b00ee97f"
+        },
+        {
+            "type": "java",
+            "name": "TerceraApp",
+            "request": "launch",
+            "mainClass": "Ejercicio_4.TerceraApp",
+            "projectName": "Java_b00ee97f"
+        },
+        {
+            "type": "java",
+            "name": "QuartaApp",
+            "request": "launch",
+            "mainClass": "Ejercicio_5.QuartaApp",
+            "projectName": "Java_b00ee97f"
+        },
+        {
+            "type": "java",
+            "name": "CinquenaApp",
+            "request": "launch",
+            "mainClass": "Ejercicio_6.CinquenaApp",
+            "projectName": "Java_b00ee97f"
+        },
+        {
+            "type": "java",
+            "name": "SisenaApp",
+            "request": "launch",
+            "mainClass": "Ejercicio_7.SisenaApp",
+            "projectName": "Java_b00ee97f"
+        },
+        {
+            "type": "java",
+            "name": "SetenaApp",
+            "request": "launch",
+            "mainClass": "Ejercicio_8.SetenaApp",
+            "projectName": "Java_b00ee97f"
+        },
+        {
+            "type": "java",
+            "name": "VuitenaApp",
+            "request": "launch",
+            "mainClass": "Ejercicio_9.VuitenaApp",
+            "projectName": "Java_b00ee97f"
+        }
+    ]
+}
